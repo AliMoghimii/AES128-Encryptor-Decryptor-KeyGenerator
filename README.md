@@ -6,7 +6,7 @@ This is an AES-128 bit Encryption and Decryption algorithm written in Java ,it a
 
 **General Info:**
 
-        The source codes are available in **/src** :
+        The source codes are available in /src :
 
             The Encryption Algorithm is Part1.java
             The Decryption Algorithm is Part2.java
