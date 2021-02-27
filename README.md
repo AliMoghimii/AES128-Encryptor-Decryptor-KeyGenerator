@@ -1,4 +1,7 @@
 # AES128-Encryptor-Decryptor-KeyGenerator
+
+You can also check the [blog](https://alimoghimii.github.io/AES128-Encryptor-Decryptor-KeyGenerator/) for updates! (powered using Github pages)
+
 This is an AES-128 bit Encryption and Decryption algorithm written in Java ,it also contains a Key Generator which uses the diffie-hellman solution
 
 **General Info:**
