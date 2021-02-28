@@ -3,8 +3,15 @@
 You can also check the [blog](https://alimoghimii.github.io/AES128-Encryptor-Decryptor-KeyGenerator/) for updates! (powered using Github pages)
 
 This is an AES-128 bit Encryption and Decryption algorithm written in Java ,it also contains a Key Generator which uses the diffie-hellman solution
+## Table of Content
 
-**General Info:**
+[General Info](https://github.com/AliMoghimii/AES128-Encryptor-Decryptor-KeyGenerator#General-Info)
+
+[Input and output](https://github.com/AliMoghimii/AES128-Encryptor-Decryptor-KeyGenerator#Inputs-and-Outputs)
+
+[Licensing](https://github.com/AliMoghimii/AES128-Encryptor-Decryptor-KeyGenerator#Licensing)
+
+### General Info:
 
         The source codes are available in /src :
 
@@ -14,7 +21,7 @@ This is an AES-128 bit Encryption and Decryption algorithm written in Java ,it a
 
         The codes can be compiled by any java compiler and IDE
 
-**Inputs and Outputs:**
+### Inputs and Outputs:
 
 The code only allows **inputs** in hexadecimal 128 bit format and prints **outputs** in a hexadecimal 128 bit format.
 it is expected for the input and output to be given/printed as the following:
@@ -62,3 +69,7 @@ this [website](https://www.irongeek.com/diffie-hellman.php) assisted me in writi
     p , g , a , b (instructions given in the link above)
     and the output is printed as :
     result seen by person A , result seen by person B , f Key
+    
+### Licensing:
+
+AliMoghimii/AES128-Encryptor-Decryptor-KeyGenerator is licensed under the GNU General Public License v3.0
